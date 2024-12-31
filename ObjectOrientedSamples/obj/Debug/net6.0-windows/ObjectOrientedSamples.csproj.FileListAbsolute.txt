@@ -1,0 +1,17 @@
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\bin\Debug\net6.0-windows\ObjectOrientedSamples.exe
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\bin\Debug\net6.0-windows\ObjectOrientedSamples.deps.json
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\bin\Debug\net6.0-windows\ObjectOrientedSamples.runtimeconfig.json
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\bin\Debug\net6.0-windows\ObjectOrientedSamples.dll
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\bin\Debug\net6.0-windows\ObjectOrientedSamples.pdb
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.Form1.resources
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.csproj.GenerateResource.cache
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.AssemblyInfoInputs.cache
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.AssemblyInfo.cs
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.csproj.CoreCompileInputs.cache
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.sourcelink.json
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.dll
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\refint\ObjectOrientedSamples.dll
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.pdb
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ObjectOrientedSamples.genruntimeconfig.cache
+D:\dev\windows\src\repos\ObjectOrientedSamples\ObjectOrientedSamples\obj\Debug\net6.0-windows\ref\ObjectOrientedSamples.dll
